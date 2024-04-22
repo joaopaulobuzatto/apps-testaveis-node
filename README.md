@@ -37,7 +37,7 @@ Make sure you have Node.js and npm installed on your machine.
 2. Navigate to the project directory:
 
     ```bash
-    cd project-directory
+    cd apps-testaveis-node
     ```
 
 3. Install dependencies:
